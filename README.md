@@ -1,0 +1,1 @@
+Simple todo app with nodejs and postgres with docker compose
